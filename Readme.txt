@@ -13,5 +13,6 @@ git add index.html
 
 git commit -m "first commit"
 git status
+git add .
 
 /*comment*/
