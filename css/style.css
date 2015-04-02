@@ -1,13 +1,14 @@
 body{
-    background: red;
+
+    background: green;
     width: 970px;
     margin: 0 auto;
 }
 
 h3 {
-    font-size: 80px;
+    font-size: 45px;
 }
 
 body div {
-    font-size: 45px;
+    font-size: 25px;
 }
